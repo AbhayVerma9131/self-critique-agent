@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+accelerate
+sentence-transformers
+wikipedia-api
+beautifulsoup4
+lxml
